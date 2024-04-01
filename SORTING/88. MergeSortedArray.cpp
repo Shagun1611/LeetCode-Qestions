@@ -1,5 +1,12 @@
 // Merge two sorted array using vector 
 
+// Best way to merge Two Sorted array:-
+
+// First I have resized the first vector 
+// Than i merged there elements
+// In the end sorting 
+// !!Simple as that!!!
+
 class Solution {
 public:
     void merge(vector<int>& nums1, int m, vector<int>& nums2, int n) {
