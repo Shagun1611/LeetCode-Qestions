@@ -16,6 +16,6 @@ public:
         {
             nums1[i]=nums2[k++];
         }
-        sort(nums1.begin(),nums1.end());
+            sort(nums1.begin(),nums1.end());
     }
 };
